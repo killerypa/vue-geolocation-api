@@ -1,7 +1,12 @@
 {
   "name": "vue-geolocation-api",
   "author": "Antonio Eduardo <antonio@skyatura.com.br> (https://skyatura.com.br/)",
-  "keywords": ["geolocation", "vue", "nuxt", "geojson"],
+  "keywords": [
+    "geolocation",
+    "vue",
+    "nuxt",
+    "geojson"
+  ],
   "repository": "github:skyatura/vue-geolocation-api",
   "version": "0.1.17",
   "license": "MIT",
