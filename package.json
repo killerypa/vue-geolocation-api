@@ -5,7 +5,9 @@
     "geolocation",
     "vue",
     "nuxt",
-    "geojson"
+    "geojson",
+    "typescript",
+    "types"
   ],
   "repository": "github:skyatura/vue-geolocation-api",
   "version": "0.1.17",
@@ -45,6 +47,7 @@
     "dist/*",
     "src/*",
     "nuxt/*",
+    "types/*",
     "*.json"
   ]
 }
