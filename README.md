@@ -38,6 +38,17 @@ module.exports =  {
 }
 ```
 
+Add to [types](http://www.typescriptlang.org/docs/handbook/declaration-files/introduction.html) in your [tsconfig.json](https://typescript.nuxtjs.org/es/guide/setup.html#configuracion)
+```ts
+{
+  "compilerOptions": { 
+    "types": [
+      "vue-geolocation-api/types"
+    ]
+  }
+}
+```
+
 ## Usage
 
 ### Computed properties
